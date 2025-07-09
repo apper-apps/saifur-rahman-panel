@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "title": "Individual Therapy",
+    "description": "Personalized one-on-one therapy sessions designed to address your specific mental health needs. Using evidence-based approaches including CBT, psychodynamic therapy, and mindfulness techniques to help you overcome challenges such as anxiety, depression, trauma, and life transitions.",
+    "duration": "50 minutes",
+    "price": "From £120",
+    "faqs": [
+      {
+        "question": "What can I expect in my first session?",
+        "answer": "Your first session will focus on understanding your background, current concerns, and goals. We'll discuss your history, explore what brings you to therapy, and begin developing a collaborative treatment plan."
+      },
+      {
+        "question": "How many sessions will I need?",
+        "answer": "The number of sessions varies depending on your individual needs and goals. Some people benefit from short-term focused work (8-12 sessions), while others prefer longer-term therapy. We'll regularly review your progress."
+      },
+      {
+        "question": "Is everything confidential?",
+        "answer": "Yes, confidentiality is fundamental to our work. Everything you share is kept strictly confidential, except in rare circumstances where there might be a risk of harm, as outlined in professional ethical guidelines."
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Relationship Coaching",
+    "description": "Expert guidance for couples and individuals looking to improve their relationships. Focus on communication skills, conflict resolution, emotional intimacy, and building stronger connections. Suitable for couples therapy, pre-marital counseling, and individual relationship coaching.",
+    "duration": "60 minutes",
+    "price": "From £150",
+    "faqs": [
+      {
+        "question": "Do both partners need to attend?",
+        "answer": "While couples therapy is most effective when both partners participate, individual relationship coaching can also be beneficial. We can discuss what approach might work best for your situation."
+      },
+      {
+        "question": "What issues do you help with?",
+        "answer": "We work with communication problems, conflict resolution, intimacy issues, trust concerns, life transitions, and relationship patterns. Both relationship enhancement and crisis intervention are supported."
+      },
+      {
+        "question": "How long does relationship coaching take?",
+        "answer": "Many couples see improvements within 6-12 sessions, though this varies. We'll work at your pace and regularly assess progress toward your relationship goals."
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "Online Consultations",
+    "description": "Convenient and secure virtual therapy sessions accessible from anywhere in the world. Using encrypted video platforms to provide the same quality of care as in-person sessions. Perfect for busy professionals, those with mobility concerns, or international clients.",
+    "duration": "50 minutes",
+    "price": "From £110",
+    "faqs": [
+      {
+        "question": "Are online sessions as effective as in-person?",
+        "answer": "Research shows that online therapy can be just as effective as in-person sessions for many concerns. The convenience and comfort of your own space can actually enhance the therapeutic process."
+      },
+      {
+        "question": "What technology do I need?",
+        "answer": "You'll need a device with a camera and microphone (computer, tablet, or smartphone) and a stable internet connection. We use secure, encrypted platforms that are easy to access."
+      },
+      {
+        "question": "How do you ensure privacy?",
+        "answer": "We use HIPAA-compliant, encrypted video platforms. You should find a private space for sessions, and we'll provide guidelines for maintaining confidentiality during online sessions."
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "title": "High-Performance Mental Fitness",
+    "description": "Specialized coaching for professionals, entrepreneurs, and high-achievers focused on optimizing mental performance, managing stress, and preventing burnout. Combining psychological principles with performance coaching to help you thrive in demanding environments.",
+    "duration": "45 minutes",
+    "price": "From £180",
+    "faqs": [
+      {
+        "question": "How is this different from regular therapy?",
+        "answer": "This service focuses specifically on performance optimization and professional development. While therapeutic principles are used, the emphasis is on enhancing strengths, managing stress, and achieving peak performance."
+      },
+      {
+        "question": "What kind of professionals do you work with?",
+        "answer": "We work with executives, entrepreneurs, healthcare professionals, lawyers, consultants, and anyone in high-pressure roles who wants to optimize their mental performance and wellbeing."
+      },
+      {
+        "question": "What techniques do you use?",
+        "answer": "We use evidence-based approaches including cognitive behavioral techniques, mindfulness, stress management, goal setting, and performance psychology principles tailored to your professional context."
+      }
+    ]
+  }
+]

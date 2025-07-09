@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "content": "Dr. Rahman's approach is both professional and deeply empathetic. His expertise in relationship coaching helped my partner and I navigate through challenging times and emerge stronger. The online sessions were convenient and effective. I highly recommend his services to anyone seeking meaningful psychological support.",
+    "author": "Sarah M.",
+    "profession": "Marketing Executive",
+    "date": "2024-01-15"
+  },
+  {
+    "Id": 2,
+    "content": "Working with Dr. Rahman on my anxiety has been transformative. His evidence-based approach and genuine care helped me develop practical strategies that I use daily. The individual therapy sessions provided a safe space to explore my concerns and build resilience. Truly life-changing.",
+    "author": "James R.",
+    "profession": "Software Engineer",
+    "date": "2024-01-10"
+  },
+  {
+    "Id": 3,
+    "content": "As a busy professional, I was initially skeptical about online therapy. Dr. Rahman's high-performance mental fitness coaching exceeded my expectations. His insights into stress management and performance optimization have significantly improved both my work and personal life.",
+    "author": "Dr. Lisa K.",
+    "profession": "NHS Consultant",
+    "date": "2024-01-05"
+  },
+  {
+    "Id": 4,
+    "content": "Dr. Rahman's compassionate and skilled approach helped me through a difficult period of depression. His understanding of both clinical psychology and the practical challenges of daily life made our sessions incredibly valuable. I'm grateful for his support and expertise.",
+    "author": "Michael T.",
+    "profession": "Teacher",
+    "date": "2023-12-28"
+  },
+  {
+    "Id": 5,
+    "content": "The couples therapy with Dr. Rahman saved our relationship. His ability to help us communicate more effectively and understand each other's perspectives was remarkable. We learned practical tools that we continue to use. Highly recommended for any couple facing challenges.",
+    "author": "Emma & David L.",
+    "profession": "Healthcare Professionals",
+    "date": "2023-12-20"
+  },
+  {
+    "Id": 6,
+    "content": "Dr. Rahman's expertise in working with professionals in high-stress environments is exceptional. His mental fitness coaching helped me manage the pressures of my legal practice while maintaining my wellbeing. The strategies I learned continue to benefit me daily.",
+    "author": "Alexandra P.",
+    "profession": "Barrister",
+    "date": "2023-12-15"
+  },
+  {
+    "Id": 7,
+    "content": "I was hesitant about seeking therapy, but Dr. Rahman's warm and professional approach put me at ease immediately. His individual therapy sessions helped me work through trauma and develop healthier coping mechanisms. The progress I've made has been remarkable.",
+    "author": "Robert H.",
+    "profession": "Financial Analyst",
+    "date": "2023-12-10"
+  },
+  {
+    "Id": 8,
+    "content": "The online consultations with Dr. Rahman were incredibly convenient and effective. Despite being based internationally, I received the same quality of care as if I were in his office. His approach to anxiety management has been life-changing for me.",
+    "author": "Priya S.",
+    "profession": "International Consultant",
+    "date": "2023-12-05"
+  },
+  {
+    "Id": 9,
+    "content": "Dr. Rahman's relationship coaching helped me understand my patterns and develop healthier relationships. His insights were profound and practical. Even working individually, I was able to make significant improvements in how I connect with others.",
+    "author": "Thomas W.",
+    "profession": "Project Manager",
+    "date": "2023-11-30"
+  }
+]
